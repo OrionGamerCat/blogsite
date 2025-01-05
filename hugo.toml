@@ -1,0 +1,4 @@
+baseURL = 'https://blog.oriongamercat.com/'
+languageCode = 'en-us'
+title = ''
+theme = 'hugo-theme-reimu'

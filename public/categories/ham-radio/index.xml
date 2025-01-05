@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HAM Radio on </title>
+    <link>http://localhost:1313/categories/ham-radio/</link>
+    <description>Recent content in HAM Radio on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Jan 2025 01:33:09 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/ham-radio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testpost2</title>
+      <link>http://localhost:1313/post/testpost2/</link>
+      <pubDate>Sun, 05 Jan 2025 01:33:09 +0100</pubDate>
+      <guid>http://localhost:1313/post/testpost2/</guid>
+      <description>&lt;p&gt;Testpost2&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
